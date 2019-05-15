@@ -1,5 +1,5 @@
 # keras_data_generator
-Implementation of a Keras Generation. The directory must have one folder per class
+Implementation of a Keras Generator. The directory must have one folder per class
 
 Citing:
 
